@@ -1,5 +1,5 @@
 # BuildSlackers
-CSC510 Project for team BuildSlackers
+CSC510 Project for team BuildSlackers 
 
 ### Travis CI integration
 [![Build Status](https://travis-ci.org/danwrice/BuildSlackers.svg?branch=master)](https://travis-ci.org/danwrice/BuildSlackers)
