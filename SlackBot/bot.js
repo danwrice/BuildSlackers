@@ -19,7 +19,7 @@ var controller = Botkit.slackbot({
 
 // connect the bot to a stream of messages
 var myBot = controller.spawn({
-  token: "xoxb-94012091188-gcrB6C1UM3Eq1BS7uHuuhJ5X",
+  token: process.env.ALTCODETOKEN,
   incoming_webhook: {
 	url:  "https://hooks.slack.com/services/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"
   }
